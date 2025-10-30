@@ -52,4 +52,3 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo ""
 echo "To play the full interactive game, run:"
 echo "  python3 baby_reveal_game.py"
-echo ""
